@@ -8,7 +8,7 @@ mail@oliver-abraham.de
 
 This Visual Studio extension aligns properties to columns for better readability.
 To use, select whole lines of c# code and issue the command "AlignCSharpProperties"
-I recommand adding a keyboard shortcut.
+I recommend adding a keyboard shortcut.
 
 
 ## Example

@@ -18,6 +18,6 @@
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,)" DisplayName="Visual Studio core editor" />
   </Prerequisites>
   <Assets>
-    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="AlignProperties.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="VisualStudioCodeReadability.pkgdef" />
   </Assets>
 </PackageManifest>
