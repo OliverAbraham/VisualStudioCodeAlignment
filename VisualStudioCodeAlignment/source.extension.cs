@@ -8,7 +8,7 @@ namespace VSIXProject4
     internal sealed partial class Vsix
     {
         public const string Id = "VSIXProject4.ff8a0656-7e55-41ab-843e-d62defa7ce0d";
-        public const string Name = "AlignProperties";
+        public const string Name = "VisualStudioCodeReadability";
         public const string Description = @"Aligns C# properties to columns";
         public const string Language = "en-US";
         public const string Version = "1.0";

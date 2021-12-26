@@ -12,8 +12,8 @@ namespace VSIXProject4
     /// </summary>
     internal sealed partial class PackageGuids
     {
-        public const string AlignPropertiesString = "bd6a68b7-c2d5-43b0-bae1-534aafa50e4f";
-        public static Guid AlignProperties = new Guid(AlignPropertiesString);
+        public const string VisualStudioCodeReadabilityString = "bd6a68b7-c2d5-43b0-bae1-534aafa50e4f";
+        public static Guid VisualStudioCodeReadability = new Guid(VisualStudioCodeReadabilityString);
     }
     /// <summary>
     /// Helper class that encapsulates all CommandIDs uses across VS Package.
@@ -21,6 +21,6 @@ namespace VSIXProject4
     internal sealed partial class PackageIds
     {
         public const int MyMenuGroup = 0x0001;
-        public const int MyCommand = 0x0100;
+        public const int AlignCSharpProperties = 0x0100;
     }
 }

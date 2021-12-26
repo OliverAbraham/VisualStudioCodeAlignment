@@ -4,8 +4,8 @@ using Abraham.VisualStudio;
 
 namespace VSIXProject4
 {
-	[Command(PackageIds.MyCommand)]
-	internal sealed class MyCommand : BaseCommand<MyCommand>
+	[Command(PackageIds.AlignCSharpProperties)]
+	internal sealed class AlignCSharpProperties : BaseCommand<AlignCSharpProperties>
 	{
 		protected override async Task ExecuteAsync(OleMenuCmdEventArgs e)
 		{
@@ -14,7 +14,7 @@ namespace VSIXProject4
 			if (selection == null)
 				return;
 
-			var fullLines = VSIXExtensionHelper.GetWholeLinesOfSelection(docView);
+			//var fullLines = VSIXExtensionHelper.GetWholeLinesOfSelection(docView);
 			var selectedText = VSIXExtensionHelper.GetSelectedText(docView);
 			var newText = ProcessText(selectedText);
 			docView.TextBuffer.Replace(selection, newText);

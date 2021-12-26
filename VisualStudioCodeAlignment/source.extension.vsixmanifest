@@ -4,6 +4,9 @@
         <Identity Id="VSIXProject4.ff8a0656-7e55-41ab-843e-d62defa7ce0d" Version="1.0" Language="en-US" Publisher="Oliver Abraham" />
         <DisplayName>AlignProperties</DisplayName>
         <Description xml:space="preserve">Aligns C# properties to columns</Description>
+        <MoreInfo>https://github.com/OliverAbraham/VisualStudioCodeAlignment/blob/main/README.md</MoreInfo>
+        <GettingStartedGuide>https://github.com/OliverAbraham/VisualStudioCodeAlignment/blob/main/README.md</GettingStartedGuide>
+        <ReleaseNotes>https://github.com/OliverAbraham/VisualStudioCodeAlignment/blob/main/README.md</ReleaseNotes>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
     </Metadata>

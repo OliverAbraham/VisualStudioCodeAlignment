@@ -6,9 +6,9 @@
   <Include href="KnownImageIds.vsct"/>
   <Include href="VSGlobals.vsct"/>
 
-  <Commands package="AlignProperties">
+  <Commands package="VisualStudioCodeReadability">
     <Groups>
-      <Group guid="AlignProperties" id="MyMenuGroup" priority="0x0600">
+      <Group guid="VisualStudioCodeReadability" id="MyMenuGroup" priority="0x0600">
         <Parent guid="VSMainMenu" id="Tools"/>
       </Group>
     </Groups>
@@ -16,22 +16,22 @@
     <!--This section defines the elements the user can interact with, like a menu command or a button
         or combo box in a toolbar. -->
     <Buttons>
-      <Button guid="AlignProperties" id="MyCommand" priority="0x0100" type="Button">
-        <Parent guid="AlignProperties" id="MyMenuGroup" />
+      <Button guid="VisualStudioCodeReadability" id="AlignCSharpProperties" priority="0x0100" type="Button">
+        <Parent guid="VisualStudioCodeReadability" id="MyMenuGroup" />
         <Icon guid="ImageCatalogGuid" id="StatusInformation" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <Strings>
           <ButtonText>Align Properties</ButtonText>
-          <LocCanonicalName>.AlignProperties.MyCommand</LocCanonicalName>
+          <LocCanonicalName>.VisualStudioCodeReadability.AlignCSharpProperties</LocCanonicalName>
         </Strings>
       </Button>
     </Buttons>
   </Commands>
 
   <Symbols>
-    <GuidSymbol name="AlignProperties" value="{bd6a68b7-c2d5-43b0-bae1-534aafa50e4f}">
+    <GuidSymbol name="VisualStudioCodeReadability" value="{bd6a68b7-c2d5-43b0-bae1-534aafa50e4f}">
       <IDSymbol name="MyMenuGroup" value="0x0001" />
-      <IDSymbol name="MyCommand" value="0x0100" />
+      <IDSymbol name="AlignCSharpProperties" value="0x0100" />
     </GuidSymbol>
   </Symbols>
 </CommandTable>

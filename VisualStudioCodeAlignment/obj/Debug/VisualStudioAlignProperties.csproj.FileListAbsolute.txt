@@ -13,7 +13,6 @@ C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\VSCT.read.1
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\VSCT.write.1.tlog
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\resources.json
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\ctoFiles.json
-C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\_EmptyResource.resources.original
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\mergeCto.cache
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\VisualStudioAlignProperties.csproj.CoreCompileInputs.cache
 C:\GIT\VisualStudioCodeAlignment\VisualStudioCodeAlignment\obj\Debug\AlignProperties.dll

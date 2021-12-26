@@ -10,7 +10,7 @@ namespace VSIXProject4
 	[PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
 	[InstalledProductRegistration(Vsix.Name, Vsix.Description, Vsix.Version)]
 	[ProvideMenuResource("Menus.ctmenu", 1)]
-	[Guid(PackageGuids.AlignPropertiesString)]
+	[Guid(PackageGuids.VisualStudioCodeReadabilityString)]
 	public sealed class VSIXProject4Package : ToolkitPackage
 	{
 		protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
