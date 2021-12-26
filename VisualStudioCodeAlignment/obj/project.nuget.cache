@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTt5RcH025LspHC2rrFeK/kv479ucOsJY7v2p0ISvXwL0ECmPMUx1RpMWwLHbZaOEPv8aNNmjyXg5JUyk7ppJA==",
+  "dgSpecHash": "fTOZuAeCRHH+gWwAg/KT5xVPzjf2wLaR7mr+KhaYNkt78V+sBJkjbcL7twwyj/ENHx82ZtLHuiQDiiwF0+yvQw==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioAlignProperties.csproj",
+  "projectFilePath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeReadability.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mail\\.nuget\\packages\\community.visualstudio.toolkit.17\\17.0.330\\community.visualstudio.toolkit.17.17.0.330.nupkg.sha512",
     "C:\\Users\\mail\\.nuget\\packages\\community.visualstudio.toolkit.analyzers\\1.0.330\\community.visualstudio.toolkit.analyzers.1.0.330.nupkg.sha512",

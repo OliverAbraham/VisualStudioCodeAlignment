@@ -49,3 +49,4 @@ To install:
 - search for 'VisualStudioCodeReadability' and install
 - go to keyboard shortcuts, search for VisualStudioCodeReadability
 - assign a shortcut for the desired function
+

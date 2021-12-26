@@ -10015,9 +10015,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioAlignProperties.csproj",
-      "projectName": "AlignProperties",
-      "projectPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioAlignProperties.csproj",
+      "projectUniqueName": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeReadability.csproj",
+      "projectName": "VisualStudioCodeReadability",
+      "projectPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeReadability.csproj",
       "packagesPath": "C:\\Users\\mail\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\obj\\",
       "projectStyle": "PackageReference",

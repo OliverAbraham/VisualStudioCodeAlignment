@@ -18,7 +18,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>VSIXProject4</RootNamespace>
-    <AssemblyName>AlignProperties</AssemblyName>
+    <AssemblyName>VisualStudioCodeReadability</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
