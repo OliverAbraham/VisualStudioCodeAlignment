@@ -1,10 +1,9 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using Abraham.VisualStudio;
 
 namespace VSIXProject4
 {
-	[Command(PackageIds.AlignCSharpProperties)]
+    [Command(PackageIds.AlignCSharpProperties)]
 	internal sealed class AlignCSharpProperties : BaseCommand<AlignCSharpProperties>
 	{
 		protected override async Task ExecuteAsync(OleMenuCmdEventArgs e)

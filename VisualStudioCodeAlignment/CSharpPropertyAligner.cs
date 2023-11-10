@@ -16,7 +16,7 @@ namespace Abraham.VisualStudio
 		public string AlignProperties(List<string> lines)
 		{
 			var lineObjects = ConvertLinesToObjects(lines);
-			return string.Join("\r\n", lineObjects.Select(x => x.ToString()));
+			return string.Join("\r\n", lineObjects.Select(x => x.ToString())) + "\n";
 		}
 		#endregion
 

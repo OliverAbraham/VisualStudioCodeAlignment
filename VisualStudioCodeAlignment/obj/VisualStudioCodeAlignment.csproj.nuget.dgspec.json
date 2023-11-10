@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj": {}
+  },
+  "projects": {
+    "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj",
+        "projectName": "VisualStudioCodeReadability",
+        "projectPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj",
+        "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Oliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Community.VisualStudio.Toolkit.17": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.330, )"
+            },
+            "Community.VisualStudio.VSCT": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[16.0.29.6, )"
+            },
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.0.5232, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

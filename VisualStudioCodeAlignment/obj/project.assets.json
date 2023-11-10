@@ -13537,9 +13537,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeReadability.csproj",
+      "projectUniqueName": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj",
       "projectName": "VisualStudioCodeReadability",
-      "projectPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeReadability.csproj",
+      "projectPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment.csproj",
       "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\VisualStudioCodeAlignment\\VisualStudioCodeAlignment\\obj\\",
       "projectStyle": "PackageReference",
